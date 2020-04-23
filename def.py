@@ -11,6 +11,7 @@ def esnumero(candidato):
     return valido
 
 print("Bienvenido a la calculadora")
+nombre = input("Escriba su usuario ")
 operacion=input("indique la operacion (+, -, *, /): ")
 oper1=input("Indique el primer número:")
 oper2=input("Indique el segundo número:")
