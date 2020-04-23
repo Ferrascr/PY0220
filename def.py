@@ -16,7 +16,7 @@ while ecm(operacion) == False:
 else:
 	oper1 = input("Indique el primer numero:")
 	oper2 = input("Indique el segundo numero:")
- 
+
 	if oper1.isnumeric() == True and oper2.isnumeric() == True:
 		oper1 = int(oper1)
 		oper2 = int(oper2)
